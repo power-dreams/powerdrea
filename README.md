@@ -6,3 +6,7 @@
 #comment
 #subscribe
 #spreedsheet
+#vote
+#pay
+#withdraw
+#publish
