@@ -10,3 +10,6 @@
 #pay
 #withdraw
 #publish
+#lable
+#tv
+#radio
