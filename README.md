@@ -13,3 +13,6 @@
 #lable
 #tv
 #radio
+#share
+#tweet
+#sell
