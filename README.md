@@ -14,4 +14,4 @@
 #tv
 #radio
 #content
-#copyrite
+#copyright
