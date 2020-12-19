@@ -1,17 +1,3 @@
 # powerdreams
-#chat
-#watch
-#post
-#like
-#comment
-#subscribe
-#spreedsheet
-#vote
-#pay
-#withdraw
-#publish
-#lable
-#tv
-#radio
-#content
-#copyright
+#e commerce site
+#to intergrade with social media
