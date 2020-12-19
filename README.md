@@ -13,4 +13,5 @@
 #lable
 #tv
 #radio
-# content
+#content
+#copyrite
