@@ -50,3 +50,24 @@ Placeholder="Number please">
  <input type="radio">yes
   <--this will print a paragraph-->
   <p> sorry:D you ran out of options</p>
+ <--this will create a form-->
+<Form action="my-handing-form-page">
+<-- a textbox shows with lable 'Name' -->
+  Name:<input
+Type="text"><br/>
+  <--a textbox shows with lable'Email'-->
+  Email::<input
+type="text"><br/>
+   <--a radio button created for selecting male or female
+  Gender:<input
+   <Type= "radio"
+ Name="gender"
+Value="male">Male
+<Input type="radio"
+ Name="gender"
+Value="female">female
+<br/>
+  --this will show a submit button-->
+  <button
+type="submit">submit</button>
+  </form>
