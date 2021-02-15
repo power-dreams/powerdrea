@@ -97,3 +97,17 @@ table border="1"
  <td> Blue berry</td>
    <tr>
 </table>
+
+  <--this will create an ordered list starts with 50-->
+   <ol.start="50">
+ <--this will create a list of items-->
+  <li>coke</li>
+  <<Li>Diet-coke</li>
+</Ol>
+ <--this will create an ordered list-->
+<UL>
+  <--this will create a list of items-->
+<Li> Fries+coke</li>
+<Li> Fries+Diet-coke</li>
+  </UL>
+
