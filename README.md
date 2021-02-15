@@ -114,3 +114,4 @@ GH auth login
 
 GH config set editor<editor>
 Protocol config set get_protocal
+GH auth login--hostname<hostname>
