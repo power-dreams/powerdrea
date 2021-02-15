@@ -112,3 +112,4 @@ table border="1"
   </UL>
 GH auth login
 
+GH config set editor<editor>
