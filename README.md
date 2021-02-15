@@ -71,3 +71,22 @@ Value="female">female
   <button
 type="submit">submit</button>
   </form>
+  <--this will create a table with border-->
+  <table border="1">
+  <--this will create a row-->
+     <tr>
+  <--this prints a heading-->
+   <th>
+  <--this prints another heading-->
+   <th>Dogs</th>
+  <--this prints another heading-->
+   <th>Cats</th>
+      </tr>
+   <--this will create another row-->
+  <tr>
+ <--this will create another column-->
+  <td> 1</td>
+ <--this will create another column-->
+ <td>0</td>
+  </tr>
+ </table>
