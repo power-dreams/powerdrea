@@ -1,0 +1,23 @@
+Name: super-splinter
+#run this workflow everytime a new commit pushed to your respiratory:push
+
+Jobs:
+# set the Job key.the key is displayed as the job name
+# when a job name is not provided
+Super-splinter
+# name the job
+Name: lint code base
+# set the type of machine to run on 
+ Runs-on: Ubuntu-latest
+Steps:
+#checks out a copy of your respiratory on the Ubuntu-latest machine
+Name: check out code
+Uses: action/check out@v2
+#runs the super-linter action
+Name:run super-linter
+Uses: GitHub/super-linter@v3
+Env
+Default-Branch:main
+GitHub_token:${{secrets.github_token}}
+
+
